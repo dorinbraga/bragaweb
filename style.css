@@ -474,7 +474,7 @@ section{
         margin-left: auto;
         padding-right: 4.38em;
         padding-left: 4.38em;
-        top: 50%;
+        top: 45%;
         margin-top: 0px !important;
         position: relative;
     }
@@ -556,7 +556,7 @@ section{
         display: table;
         width: 100%;
         position: relative;
-        top: 110px;
+        top: 0px;
     }
     #social-test {
         display: table-cell;
@@ -980,7 +980,7 @@ section{
 }
 
 
-@media screen and (min-height:800px){
+@media screen and (min-width:800px){
     .contacts-row-2{
         margin-top: 230px;
     }
