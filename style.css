@@ -288,6 +288,7 @@ img {
     height: 80vh;
   }
   .three {
+
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -514,6 +515,7 @@ section{
         justify-content: unset;
         padding: 0px 10px;
         position: relative;
+        max-height: 100vh;
     }
     .contacts-row-1 h3{
         font-size: 80px;
@@ -556,7 +558,7 @@ section{
         display: table;
         width: 100%;
         position: relative;
-        top: 0px;
+        top: 50px;
     }
     #social-test {
         display: table-cell;
