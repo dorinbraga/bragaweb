@@ -428,9 +428,11 @@ section{
         display: none;
     }
     #nav-wrapper{
-        height: 27.198vw;
+        height: 19vw;
     }
-    
+    .logo-img {
+        height: 60px;
+    }
     #main-spline{
         display: none;
     }
@@ -498,6 +500,7 @@ section{
     }
     .two {
         height: 100vh;
+        padding: 0em 2px 5.83em;
     }
     .contacts-social{
         display: none;
@@ -509,7 +512,7 @@ section{
     }
     .three{
         justify-content: unset;
-        padding: 10px;
+        padding: 0px 10px;
         position: relative;
     }
     .contacts-row-1 h3{
@@ -553,7 +556,7 @@ section{
         display: table;
         width: 100%;
         position: relative;
-        top: 150px;
+        top: 110px;
     }
     #social-test {
         display: table-cell;
