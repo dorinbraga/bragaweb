@@ -169,7 +169,7 @@ a {
     animation-duration: 5s;
     animation-name: animate-fade;
     animation-delay: 0.2s;
-
+	padding:10px;
     animation-fill-mode: both;
 }
 
